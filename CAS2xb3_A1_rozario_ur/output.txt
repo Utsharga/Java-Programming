@@ -1,0 +1,103 @@
+Entering testDifference...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+Test case 7 passed
+testDifference completed
+Entering testisEqual...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+Test case 7 passed
+Test case 8 passed
+Test case 9 passed
+Test case 10 passed
+Test case 11 passed
+Test case 12 passed
+Test case 13 passed
+testisEqual complete
+Entering testgetCount...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+Test case 7 passed
+Test case 8 passed
+Test case 9 passed
+Test case 10 passed
+testgetCount completed
+Entering testIntersection...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+testIntersection complete
+Entering testisSubset...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+testisSubset completed
+Entering testProduct...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+testProduct completed
+Entering testtoString...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+Test case 7 passed
+Test case 8 passed
+Test case 9 passed
+Test case 10 passed
+testtoString completed
+Entering testUnion...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+testUnion completed
+Entering testAdd...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+testAdd complete
+Entering testRemove...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+testRemove complete
+Entering testMember...
+Test case 1 passed
+Test case 2 passed
+Test case 3 passed
+Test case 4 passed
+Test case 5 passed
+Test case 6 passed
+Test case 7 passed
+Test case 8 passed
+Test case 9 passed
+Test case 10 passed
+testMember complete
